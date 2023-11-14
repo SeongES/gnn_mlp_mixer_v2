@@ -134,3 +134,4 @@ python -m train.peptides_func model.name MPGNN metis.n_patches 0
 # Reproducibility
 
 Use `run.sh` to run the codes and reproduce the published results.
+# gnn_mlp_mixer_v2
